@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">In and Out</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="total_cost_in_this_month">Total cost this month:</string>
+    <string name="today_you_have_cost">Today you have cost:</string>
+
+</resources>
